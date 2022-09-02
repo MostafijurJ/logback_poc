@@ -16,6 +16,7 @@ public class HelloController {
         logger.info("Hello from info log!");
         logger.trace("Hello from trace log!");
         logger.error("Hello from error log!");
+        logger.error("Hello from error log!");
         return "Hello World";
     }
 }
