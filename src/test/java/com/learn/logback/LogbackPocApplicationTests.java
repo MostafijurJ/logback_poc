@@ -1,5 +1,6 @@
 package com.learn.logback;
 
+import com.learn.logback.controller.HelloController;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
